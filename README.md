@@ -7,19 +7,20 @@
 <h1 align="center">Hi 👋, I'm Krishan kant</h1>
 <h3 align="center">i am quantitative trader and researcher </h3>
 
-- currently working in quantitative trader and researcher [Machine-Learning-for-Trading](https://github.com/Krishancse/Machine-Learning-for-Trading)
+- currently working in quantitative trader and researcher [Machine-Learning-for-Trading](https://github.com/kantkrishan0206-crypto/FANG-Stocks-Prediction-and-Quantitative-Trading-using-Sentiment-Analysis)
 
 - 🌱 I’m currently learning **machine learning for trading and research with NumPy, pandas etc**
 
 - 👯 I’m looking to collaborate on [Machine-Learning-for-Trading](https://github.com/Krishancse/Machine-Learning-for-Trading)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Krishancse](https://github.com/Krishancse)
+- 👨‍💻 All of my projects are available at https://github.com/kantkrishan0206-crypto
 
 - 💬 Ask me about **ai, ml ,dl ,data science and quantitative trading and research in finance **
 
 - 📫 How to reach me **kantkrishan0205@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/krishan-kant-ab9475229](www.linkedin.com/in/krishan-kant-ab9475229)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
